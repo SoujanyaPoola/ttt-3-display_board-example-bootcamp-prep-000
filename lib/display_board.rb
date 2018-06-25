@@ -3,7 +3,7 @@ def display_board
   
   board = [" "," "," "," "," "," "," "," "," "]
   puts "A Tic Tac Toe Board"
-  puts " #{board[0] |  }"
+  puts " #{board[0] |  #{board[1] | #{board[2]}"
   
   
   
